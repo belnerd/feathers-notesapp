@@ -4,6 +4,8 @@
 ## Demo
 There's a demo running at [https://muistioapp.herokuapp.com/](https://muistioapp.herokuapp.com/)
 
+![Demo](demo.png)
+
 
 ## About
 
